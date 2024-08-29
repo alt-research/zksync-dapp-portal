@@ -1,11 +1,11 @@
 [
     {
         "network": {
-            "id": 1147665476,
+            "id": 1145777393,
             "name": "zksync-public-testnet",
             "key": "zksync-public-testnet",
             "rpcUrl": "https://zksync-public-testnet.alt.technology/",
-            "blockExplorerUrl": "https://zksync-public-testnet-explorer.alt.technology",
+            "blockExplorerUrl": "https://zksync-public-testnet-explorer-app.alt.technology",
             "blockExplorerApi": "https://zksync-public-testnet-explorer-api.alt.technology",
             "publicL1NetworkId": 11155111
         },
