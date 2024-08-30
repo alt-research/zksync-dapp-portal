@@ -1,7 +1,7 @@
 [
     {
         "network": {
-            "id": 1145777393,
+            "id": 1147665476,
             "name": "zkstack-public-testnet",
             "key": "zkstack-public-testnet",
             "rpcUrl": "https://zkstack-public-testnet.alt.technology/",
